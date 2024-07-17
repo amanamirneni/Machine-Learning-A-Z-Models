@@ -18,4 +18,4 @@ This file contains all machine learning models implementations along with datase
 
 9.Dimension Reduction:- A method for representing a given dataset using a lower number of features (i.e. dimensions) while still capturing the original data's meaningful properties.
 
-10.Model Selection and Boosting:-This contains how to select correct machine learning model for give data and how to boost accuracy by using popular ML model XGBoost.
+10.Model Selection and Boosting:-This contains how to select correct machine learning model for given data and how to boost accuracy by using popular ML model XGBoost.
